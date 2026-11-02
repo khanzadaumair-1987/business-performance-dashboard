@@ -33,8 +33,9 @@ Full case study (15 pages): [Business\_Performance\_Case\_Study.pdf](report/Busi
 
 ## Dataset
 
-[Financial Sample Excel workbook](https://go.microsoft.com/fwlink/?LinkID=521962) by Microsoft ([download page](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)): a public sample table of 700 sales records from Sep 2013 to Dec 2014, across 5 countries, 6 products, and 5 segments. The same data is also built into Power BI Desktop: **Use sample data > Load sample data > Financials**. The raw data is not included in this repository; download it from the link above. Fields used include sales, gross sales, COGS, profit, units, manufacturing price, discount band, segment, product, country, and date. Amounts are in dollars.
+## Dataset
 
+Public Financial Sample dataset from the Data Science Tutorials channel: 700 sales records from Sep 2013 to Dec 2014, across 5 countries, 6 products, and 5 segments. The raw data is not included in this repository. Fields used include sales, gross sales, COGS, profit, units, manufacturing price, discount band, segment, product, country, and date. Amounts are in dollars.
 ## 
 
 ## Approach
@@ -104,5 +105,4 @@ Umair Khalil | Senior Data Analyst
 
 ## Disclaimer
 
-Independent portfolio project, built following a Data Science Tutorials walkthrough. Not affiliated with Microsoft or Data Science Tutorials. Data: [Financial Sample Excel workbook](https://go.microsoft.com/fwlink/?LinkID=521962) by Microsoft. Dataset credit to Microsoft. All figures come from the Power BI dashboard and the case study (700 records, Sep 2013 to Dec 2014). Amounts are in dollars.
-
+Independent portfolio project, built following a Data Science Tutorials walkthrough. Not affiliated with Data Science Tutorials. Data: Financial Sample dataset from the Data Science Tutorials channel. Dataset credit to Data Science Tutorials. All figures come from the Power BI dashboard and the case study (700 records, Sep 2013 to Dec 2014). Amounts are in dollars.
